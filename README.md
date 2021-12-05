@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 
+ -->-🌱 I’m currently learning  Flask
+ -🔭 I’m currently working on web development , competitive programming
+ - 📫 How to reach me: ...
+ - Email : preetiharjani1382@gmail.com
+ - LinkedIn : https://www.linkedin.com/in/preeti-h-7914b61b5/
+ - ![](https://komarev.com/ghpvc/?username=preeti1382&color=orange)
+
+ 
+
