@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
- -->-🌱I’m Preeti, a software engineer with a strong foundation in Java, backend systems, and test automation. I love building efficient solutions, writing clean code, and ensuring high-quality software through both development and testing perspectives.
+ -->🌱I’m Preeti, a software engineer with a strong foundation in Java, backend systems, and test automation. I love building efficient solutions, writing clean code, and ensuring high-quality software through both development and testing perspectives.
 
--🔭 Currently focused on:
+🔭 Currently focused on:
 
 - Developing and improving backend systems and tools
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 - Collaborating on projects that drive real impact and growth
 
-- 👯 I’m always curious, always learning, and always building. Let’s connect and share ideas!
+👯 I’m always curious, always learning, and always building. Let’s connect and share ideas!
  
- - 📫 How to reach me: ...
+📫 How to reach me: ...
  - Email : preetiharjani25@gmail.com
  - LinkedIn : [https://www.linkedin.com/in/preeti-h/](https://www.linkedin.com/in/preeti-h/)
  - ![](https://komarev.com/ghpvc/?username=preeti1382&color=orange)
